@@ -7,7 +7,7 @@ Process JSON data from a webiste and read certain attributes like weather, humid
 
 ________________________________________________________________________________________________________________________________________________
 
-2.KMap Initialization
+2. KMap Initialization
 Write a program in Python and a test file, which takes a function of maximum 4 variables as input and gives the corresponding minimized function(s) as the output 
 (minimized using the K-Map methodology), considering the case of Don’t Care conditions.
 
@@ -36,7 +36,7 @@ d.	Similarly, repeat steps a,b and c to get the Standardized Betweenness Central
 ________________________________________________________________________________________________________________________________________________
 
 
-4.Matplotlib Transformations 2D
+4. Matplotlib Transformations 2D
 
 Take input as shape type, either dic or polygon and translate it or rotate it through any angle theta using matrix linear transformations and plot using matplotlib
 
