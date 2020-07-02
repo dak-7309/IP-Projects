@@ -38,6 +38,6 @@ ________________________________________________________________________________
 
 4. Matplotlib Transformations 2D
 
-Take input as shape type, either dic or polygon and translate it or rotate it through any angle theta using matrix linear transformations and plot using matplotlib
+Take input as shape type, either disc or polygon and translate it or rotate it through any angle theta using matrix linear transformations and plot using matplotlib
 
 ________________________________________________________________________________________________________________________________________________
